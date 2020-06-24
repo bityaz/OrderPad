@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="New Orders">
+        <menu>
+            <item
+                android:id="@+id/orders_page"
+                android:icon="@drawable/ic_launcher_foreground"
+                android:title="Orders Page" />
+            <item
+                android:id="@+id/another_page"
+                android:icon="@android:drawable/checkbox_on_background"
+                android:title="Accepted Orders" />
+            <item
+                android:id="@+id/declined_orders"
+                android:icon="@android:drawable/checkbox_on_background"
+                android:title="Declined Orders" />
+        </menu>
+    </item>
+
+    <item android:title="Completed Orders">
+        <menu>
+            <item
+                android:id="@+id/on_its_way"
+                android:icon="@drawable/ic_launcher_foreground"
+                android:title="On its Way" />
+            <item
+                android:id="@+id/contact_page"
+                android:icon="@android:drawable/checkbox_on_background"
+                android:title="Delivered" />
+        </menu>
+    </item>
+
+</menu>

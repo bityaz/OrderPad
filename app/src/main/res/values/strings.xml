@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">OrderPad</string>
+    <string name="home">Home</string>
+    <string name="logout">Logout</string>
+    <string name="profile">Profile</string>
+    <string name="test1">test1</string>
+    <string name="test2">test2</string>
+    <string name="test3">test3</string>
+    <string name="communicate">Communicate</string>
+    <string name="test4">test4</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+</resources>

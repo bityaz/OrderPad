@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "729117194717",
+    "firebase_url": "https://orderpad-27bc3.firebaseio.com",
+    "project_id": "orderpad-27bc3",
+    "storage_bucket": "orderpad-27bc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729117194717:android:cb1f03bcaebcbafee25e34",
+        "android_client_info": {
+          "package_name": "com.example.orderpad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729117194717-8vuc4es9mg4l000f1895431rjcj3rsge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtCBkdq2_7uSL855LPc0zM96VlObmKEdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729117194717-8vuc4es9mg4l000f1895431rjcj3rsge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
